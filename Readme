@@ -1,1 +1,8 @@
-readme
+This repository contains implementation of four methods to solve the Max Flow Problem, namely
+
+1. Naive method
+2. Ford-Fulkerson method
+3. Edmonds-Karp algorithm
+4. Dinic's algorithm
+
+as part of a course project for CS 412: Algorithms Design & Analysis at Habib University for the semester Fall 2020.
